@@ -1,7 +1,7 @@
 <?php
 // variabel yang menyimpan nama depan dan nama belakang
-$first = "Rafi";
-$last = "Asmaul Rizal";
+$first = "Reza";
+$last = "Nurjaman";
 
 for ($i = 1; $i <= 100; $i++) {
     if ($i % 3 == 0 && $i % 5 == 0) {
